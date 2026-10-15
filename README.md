@@ -23,7 +23,7 @@ A webcam feed is classified by a lightweight neural network into a small set of 
 |---|---|
 | Topic proposal | Written and submitted (October 2026) |
 | Supervisor | Dr Yu Zhou |
-| Hardware | Small educational 4-DOF desktop robotic arm — **to be confirmed** |
+| Hardware | Small educational desktop robotic arm — specifications **still to be confirmed** |
 | Repositories | This one (introduced now, populated as work proceeds) |
 
 ## Planned structure
@@ -67,7 +67,7 @@ pc-app/      host-side capture, labelling and demonstration tooling
 |---|---|
 | 选题表 | 已填写并提交（2026 年 10 月） |
 | 导师 | Dr Yu Zhou |
-| 硬件 | 小型教学用 4 自由度桌面机械臂 —— **待确认** |
+| 硬件 | 小型教学用桌面机械臂 —— 规格**待确认** |
 | 仓库 | 即本仓库（先建，随进度填充） |
 
 ## 规划的目录结构
