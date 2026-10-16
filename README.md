@@ -1,5 +1,7 @@
 # MP3000 — Engineering Project with Sustainability
 
+- **Project proposal form**: [`docs/MP3000-Project-Proposal-Form.pdf`](docs/MP3000-Project-Proposal-Form.pdf) — 5 pages, the approved proposal (student identifiers redacted)
+
 **Final-year capstone project (2026–27).** This repository is intentionally a project statement for now: the design work has started, but no source code has been written yet. Code, models and documentation will be added here as the project progresses.
 
 ## The project
@@ -41,6 +43,8 @@ pc-app/      host-side capture, labelling and demonstration tooling
 - Nothing in this repository is a claim of completed work: it is the project's public statement of intent.
 
 ---
+
+- **立项提案表**：[`docs/MP3000-Project-Proposal-Form.pdf`](docs/MP3000-Project-Proposal-Form.pdf) —— 已批准的提案，5 页（已脱敏个人信息）
 
 # MP3000 —— 可持续工程毕业设计
 
